@@ -3,11 +3,11 @@
 
 <p> Essa atividade consiste em criar um sistema de cadastro de peças, eis o solicitado:
 
-* Cadastrar as peças - Criar um array para os nomes de peças - ok
+* Cadastrar as peças - Criar um array para os nomes de peças
 
-* Peça deve possuir mais de 100 g para ser cadastrada - ok 
+* Peça deve possuir mais de 100 g para ser cadastrada
 
-* Capacidade máxima de peças cadastradas é de 10 unidades - ok
+* Capacidade máxima de peças cadastradas é de 10 unidades
 
 * Verificar se a peça possui um nome de mais de 3 caracteres, se sim permitir cadastro,
 senão se a peça tiver o nome vazio, notificar o usuario, senão cadastro negado
